@@ -7,9 +7,15 @@ This data engineering project focuses on modeling and analyzing the [Amazon Prim
 - Leveraged the Google Cloud Storage platform to store raw data.
 - Created a visual representation of the data model to provide a clear understanding of the dataset's structure.
 
-<img src="images/data_model"/>
+<img src="images/data_model.png"/>
 
+- Implemented a data pipeline for Extract, Transform, Load (ETL) using Mage AI on a Google Cloud Virtual Machine.
 
-- Implemented a data pipeline for Extract, Transform, Load (ETL) using Mage AI on a Google Cloud Virtual Machine. 
+<img src="images/pipeline.png"/>
+
 - Loaded the transformed dataset into Google BigQuery for data warehousing.
-- Built a comprehensive dashboard in Looker studio .
+- Built a comprehensive dashboard in Looker studio offering a comprehensive view of the dataset.
+
+<img src="images/amazon_tv_dashboard"/>
+
+  
