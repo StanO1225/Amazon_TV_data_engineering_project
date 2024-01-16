@@ -13,7 +13,8 @@ This data engineering project focuses on modeling and analyzing the [Amazon Prim
 
 <img src="images/pipeline.png"/>
 
-- Loaded the transformed dataset into Google BigQuery for data warehousing.
+- Loaded the transformed dataset into Google BigQuery for data warehousing data querying.
+- Wrote SQL scripts in Bigquery for data analysis and visualization.
 - Built a comprehensive dashboard in Looker studio offering a comprehensive view of the dataset.
 
 <img src="images/amazon_tv_dashboard.png"/>
